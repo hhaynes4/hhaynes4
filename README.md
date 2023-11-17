@@ -2,6 +2,7 @@ Specialize in full-stack Javascript development (React, Node, Express) with expe
 
 Recent Public Talks & Publications:
 📣 React Router | Tech Talk Series
+
 🧠 Better Kubernetes Monitoring with Anago | Medium article 
 
 Beyond coding, I love to hike around my island home - Maui, HI - and find new waterfalls to climb. I am slowly checking activities off my "to-learn" list, with crochet as my current one.
