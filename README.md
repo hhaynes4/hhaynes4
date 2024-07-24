@@ -10,5 +10,4 @@ Talks & Publications:\
 Beyond coding, I love to hike around my island home - Maui, HI - and find new waterfalls to climb. I am slowly checking activities off my "to-learn" list, with crochet as my current one.
 
 Connect with me!\
-☞ Email: haliahaynes@gmail.com\
-☞ Github: https://github.com/hhaynes4
+☞ Email: haliahaynes@gmail.com
