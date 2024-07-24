@@ -1,6 +1,6 @@
 Cloud-focused software engineer specializing in AWS and full-stack development. Architect of scalable, serverless solutions leveraging cutting-edge technologies. Proficient in modern JavaScript frameworks/libraries, delivering secure and performant applications.
 
-Talks & Publications:
+Talks & Publications:\
 🤖 Implementing ML-Driven Analyses with AWS Bedrock | Blog post 2024\
 📧 Setting up AWS SES for an Auto Emailing Service: A Decoupled Event-Driven Approach | Blog post 2024\
 🔥 Using AWS WAF with Free AWS Managed Rule Groups | Blog post 2024\
